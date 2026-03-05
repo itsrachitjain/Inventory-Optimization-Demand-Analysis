@@ -79,3 +79,8 @@ Identified slow-moving & dead inventory
 Highlighted overstock risk areas
 Improved reporting visibility
 Reduced manual tracking effort by ~40%
+
+Connect With Me
+
+LinkedIn: (https://www.linkedin.com/in/itsrachitjain/)
+GitHub: (https://github.com/itsrachitjain)
